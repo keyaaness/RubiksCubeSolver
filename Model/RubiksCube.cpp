@@ -25,6 +25,8 @@ char RubiksCube::getColorLetter(COLOR color) {
     }
 }
 
+
+
 /*
  * Describe a move using an index
  */
